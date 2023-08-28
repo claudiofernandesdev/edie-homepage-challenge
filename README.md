@@ -73,5 +73,5 @@ $ git clone https://github.com/claudiofernandesdev/edie-homepage-challenge
 
 ## Contact
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white(claudiofernandesgpe@gmail.com))
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white (claudiofernandesgpe@gmail.com))
 
